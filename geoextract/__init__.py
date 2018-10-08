@@ -46,7 +46,7 @@ from unidecode import unidecode
 from .app import create_app
 
 
-__version__ = '0.3.0'
+__version__ = '0.3.1'
 
 # Flags for regular expressions
 _RE_FLAGS = re.UNICODE
